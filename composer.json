@@ -1,0 +1,6 @@
+{
+    "require": {
+        "slim/slim": "^3",
+        "ext-sqlite3": "^7.4"
+    }
+}
